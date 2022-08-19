@@ -2580,6 +2580,20 @@ ItemUsageModule.Use['item_cheese'] = function(item, bot, mode, extra_range)
 	
 	return BOT_ACTION_DESIRE_NONE;
 end
+--item_aghanims_shard_roshan
+ItemUsageModule.Use['item_aghanims_shard_roshan'] = function(item, bot, mode, extra_range)
+	if bot:HasModifier("modifier_item_aghanims_shard") == false
+	then
+		return BOT_ACTION_DESIRE_ABSOLUTE, bot, 'no_target';
+	end
+end
+--item_ultimate_scepter_roshan
+ItemUsageModule.Use['item_ultimate_scepter_roshan'] = function(item, bot, mode, extra_range)
+	if bot:HasModifier("modifier_item_ultimate_scepter_consumed") == false
+	then
+		return BOT_ACTION_DESIRE_ABSOLUTE, bot, 'no_target';
+	end
+end
 
 --------- PATCH 7.28 -----------
 --item_gungir

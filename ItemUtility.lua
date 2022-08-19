@@ -4,83 +4,91 @@ ItemModule['neutralItem'] = {
 	--Tier 1
 	['item_arcane_ring'] = 1,
 	['item_broom_handle'] = 1,
-	['item_elixer'] = 1,
-	['item_faded_broach'] = 1,
-	-- ['item_iron_talon'] = 1,
+	['item_chipped_vest'] = 1,
+	['item_mysterious_hat'] = 1,
 	['item_keen_optic'] = 1,
-	-- ['item_mango_tree'] = 1,
 	['item_ocean_heart'] = 1,
+	['item_unstable_wand'] = 1,
+	['item_possessed_mask'] = 1,
+	['item_trusty_shovel'] = 1,
+	['item_pogo_stick'] = 1,
+	-- ['item_elixer'] = 1,
+	-- ['item_faded_broach'] = 1,
+	-- ['item_iron_talon'] = 1,
+	-- ['item_mango_tree'] = 1,
 	-- ['item_poor_mans_shield'] = 1,
 	-- ['item_royal_jelly'] = 1,
-	['item_trusty_shovel'] = 1,
-	['item_ironwood_tree'] = 1,
-	['item_mysterious_hat'] = 1,
-	['item_chipped_vest'] = 1,
-	['item_possessed_mask'] = 1,
+	-- ['item_ironwood_tree'] = 1,
 	--Tier 2
-	-- ['item_clumsy_net'] = 2,
+	['item_item_misericorde'] = 2,
+	['item_bullwhip'] = 2,
 	['item_dragon_scale'] = 2,
 	['item_essence_ring'] = 2,
+	['item_paintball'] = 2
 	['item_grove_bow'] = 2,
-	['item_imp_claw'] = 2,
 	['item_nether_shawl'] = 2,
 	['item_philosophers_stone'] = 2,
 	['item_pupils_gift'] = 2,
-	['item_ring_of_aquila'] = 2,
-	-- ['item_vampire_fangs'] = 2,
-	['item_vambrace'] = 2,
 	['item_quicksilver_amulet'] = 2,
-	['item_bullwhip'] = 2,
+	['item_ring_of_aquila'] = 2,
+	['item_vambrace'] = 2,
+	-- ['item_clumsy_net'] = 2,
+	-- ['item_imp_claw'] = 2,
+	-- ['item_vampire_fangs'] = 2,
 	--Tier 3
-	-- ['item_craggy_coat'] = 3,
-	['item_enchanted_quiver'] = 3,
-	-- ['item_greater_faerie_fire'] = 3,
-	['item_helm_of_the_undying'] = 3,
-	['item_mind_breaker'] = 3,
-	['item_orb_of_destruction'] = 3,
-	['item_paladin_sword'] = 3,
-	['item_quickening_charm'] = 3,
-	-- ['item_repair_kit'] = 3,
-	['item_spider_legs'] = 3,
-	['item_third_eye'] = 3,
-	['item_spy_gadget'] = 3,
-	['item_titan_sliver'] = 3,
-	['item_elven_tunic'] = 3,
-	['item_cloak_of_flames'] = 3,
+	['item_black_powder_bag'] = 3
 	['item_ceremonial_robe'] = 3,
+	['item_cloak_of_flames'] = 3,
+	['item_elven_tunic'] = 3,
+	['item_enchanted_quiver'] = 3,
+	['item_mind_breaker'] = 3,
+	['item_paladin_sword'] = 3,
 	['item_psychic_headband'] = 3,
+	['item_quickening_charm'] = 3,
+	['item_spider_legs'] = 3,
+	['item_titan_sliver'] = 3,
+	-- ['item_craggy_coat'] = 3,
+	-- ['item_greater_faerie_fire'] = 3,
+	-- ['item_helm_of_the_undying'] = 3,
+	-- ['item_orb_of_destruction'] = 3,
+	-- ['item_repair_kit'] = 3,
+	-- ['item_third_eye'] = 3,
 	--Tier 4
+	['item_ascetic_cap'] = 4,
 	['item_flicker'] = 4,
-	['item_havoc_hammer'] = 4,
-	['item_illusionsts_cape'] = 4,
-	-- ['item_panic_button'] = 4,
-	['item_minotaur_horn'] = 4,
 	['item_ninja_gear'] = 4,
-	-- ['item_princes_knife'] = 4,
+	['item_penta_edged_sword'] = 4,
 	['item_spell_prism'] = 4,
+	['item_stormcrafter'] = 4,
+	['item_spy_gadget'] = 4,
 	['item_the_leveller'] = 4,
 	['item_timeless_relic'] = 4,
-	-- ['item_witless_shako'] = 4,
-	['item_penta_edged_sword'] = 4,
-	['item_stormcrafter'] = 4,
 	['item_trickster_cloak'] = 4,
+	['item_heavy_blade'] = 4,
+	-- ['item_havoc_hammer'] = 4,
+	-- ['item_illusionsts_cape'] = 4,
+	-- ['item_panic_button'] = 4,
+	-- ['item_minotaur_horn'] = 4,
+	-- ['item_princes_knife'] = 4,
+	-- ['item_witless_shako'] = 4,
 	--Tier 5
 	['item_apex'] = 5,
-	['item_ballista'] = 5,
+	['item_force_field'] = 5,
+	['item_book_of_shadows'] = 5,
 	['item_demonicon'] = 5,
-	['item_desolator_2'] = 5,
 	['item_ex_machina'] = 5,
 	['item_fallen_sky'] = 5,
 	['item_force_boots'] = 5,
-	['item_fusion_rune'] = 5,
+	['item_giants_ring'] = 5,
 	['item_mirror_shield'] = 5,
-	['item_phoenix_ash'] = 5,
 	['item_pirate_hat'] = 5,
 	['item_seer_stone'] = 5,
+	['item_desolator_2'] = 5
+	-- ['item_ballista'] = 5,
+	-- ['item_fusion_rune'] = 5,
+	-- ['item_phoenix_ash'] = 5,
 	-- ['item_recipe_trident'] = 5,
 	-- ['item_woodland_striders'] = 5,
-	['item_giants_ring'] = 5,
-	['item_book_of_shadows'] = 5,
 }
 
 ItemModule['earlyGameItem'] = {
@@ -91,7 +99,7 @@ ItemModule['earlyGameItem'] = {
 	 "item_flask", 
 	 "item_infused_raindrop",
 	 "item_quelling_blade", 
-	 "item_stout_shield", 
+	 --"item_stout_shield", 
 	 "item_magic_wand",
 	 "item_bottle",  
 	 "item_soul_ring",  
@@ -112,82 +120,79 @@ ItemModule['earlyBoots'] = {
 	"item_arcane_boots"  
 }
 
-ItemModule["basic_items"] = {    
+ItemModule["basic_items"] = {	
 	"item_aegis";
-	"item_courier";
-	"item_boots_of_elves";
-	"item_belt_of_strength";
-	"item_blade_of_alacrity";
-	"item_blades_of_attack";
-	"item_blight_stone";
-	"item_blink";
-	"item_boots";
-	"item_bottle";
-	"item_broadsword";
-	"item_chainmail";
 	"item_cheese";
-	"item_circlet";
-	"item_clarity";
-	"item_claymore";
-	"item_cloak";
-	"item_demon_edge";
-	"item_dust";
-	"item_eagle";
-	"item_enchanted_mango";
-	"item_energy_booster";
-	"item_faerie_fire";
-	"item_flying_courier";
-	"item_gauntlets";
-	"item_gem";
-	"item_ghost";
-	"item_gloves";
-	"item_flask";
-	"item_helm_of_iron_will";
-	"item_hyperstone";
-	"item_infused_raindrop";
-	"item_branches";
-	"item_javelin";
-	"item_magic_stick";
-	"item_mantle";
-	"item_mithril_hammer";
-	"item_lifesteal";
-	"item_mystic_staff";
-	"item_ward_observer";
-	"item_ogre_axe";
-	"item_orb_of_venom";
-	"item_platemail";
-	"item_point_booster";
-	"item_quarterstaff";
-	"item_quelling_blade";
-	"item_reaver";
 	"item_refresher_shard";
-	"item_ring_of_health";
-	"item_ring_of_protection";
-	"item_ring_of_regen";
-	"item_robe";
-	"item_relic";
-	"item_sobi_mask";
+	"item_aghanims_shard_roshan";
+	"item_ward_observer";
+	"item_clarity";
 	"item_ward_sentry";
-	"item_shadow_amulet";
-	"item_slippers";
 	"item_smoke_of_deceit";
-	"item_staff_of_wizardry";
-	"item_stout_shield";
-	"item_talisman_of_evasion";
+	"item_enchanted_mango";
+	"item_faerie_fire";
+	"item_tome_of_knowledge";
+	"item_dust";
 	"item_tango";
 	"item_tango_single";
-	"item_tome_of_knowledge";
+	"item_flask";
 	"item_tpscroll";
-	"item_ultimate_orb";
-	"item_vitality_booster";
-	"item_void_stone";
-	"item_wind_lace";
-	"item_ring_of_tarrasque";
-	"item_crown";    
-	"item_blitz_knuckles";    
-	"item_voodoo_mask";
-	"item_fluffy_hat";
+	"item_bottle";
 	"item_aghanims_shard";
+	"item_branches";
+	"item_gauntlets";
+	"item_mantle";
+	"item_slippers";
+	"item_circlet";
+	"item_boots_of_elves";
+	"item_belt_of_strength";
+	"item_crown";
+	"item_robe";
+	"item_blade_of_alacrity";
+	"item_ogre_axe";
+	"item_staff_of_wizardry";
+	"item_quelling_blade";
+	"item_ring_of_protection";
+	"item_infused_raindrop";
+	"item_orb_of_venom";
+	"item_blight_stone";
+	"item_blades_of_attack";
+	"item_gloves";
+	"item_chainmail";
+	"item_quarterstaff";
+	"item_helm_of_iron_will";
+	"item_blitz_knuckles";
+	"item_broadsword";
+	"item_javelin";
+	"item_claymore";
+	"item_mithril_hammer";
+	"item_ring_of_regen";
+	"item_sobi_mask";
+	"item_magic_stick";
+	"item_fluffy_hat";
+	"item_wind_lace";
+	"item_boots";
+	"item_cloak";
+	"item_voodoo_mask";
+	"item_gem";
+	"item_lifesteal";
+	"item_shadow_amulet";
+	"item_ghost";
+	"item_blink";
+	"item_energy_booster";
+	"item_ring_of_health";
+	"item_void_stone";
+	"item_vitality_booster";
+	"item_point_booster";
+	"item_talisman_of_evasion";
+	"item_platemail";
+	"item_hyperstone";
+	"item_ultimate_orb";
+	"item_demon_edge";
+	"item_eagle";
+	"item_mystic_staff";
+	"item_reaver";
+	"item_relic";
 }
 
 ItemModule["item_abyssal_blade"] = { "item_basher"; "item_vanguard"; "item_recipe_abyssal_blade" }
@@ -305,7 +310,7 @@ ItemModule["item_necronomicon"] = { "item_sobi_mask"; "item_sobi_mask"; "item_be
 ItemModule["item_necronomicon_2"] = { "item_necronomicon"; "item_recipe_necronomicon" }
 
 ItemModule["item_necronomicon_3"] = { "item_necronomicon_2"; "item_recipe_necronomicon" }
-	    
+		
 ItemModule["item_null_talisman"] = { "item_mantle"; "item_circlet"; "item_recipe_null_talisman" }
 
 ItemModule["item_oblivion_staff"] = { "item_quarterstaff"; "item_robe"; "item_sobi_mask" }
@@ -337,13 +342,13 @@ ItemModule["item_rapier"] = { "item_relic"; "item_demon_edge" }
 ItemModule["item_refresher"] = { "item_pers"; "item_pers"; "item_recipe_refresher" }
 				
 ItemModule["item_ring_of_aquila"] = { "item_ring_of_basilius"; "item_crown" }
-			    
+				
 ItemModule["item_ring_of_basilius"] = {  "item_sobi_mask" ; "item_recipe_ring_of_basilius" }
 				
 ItemModule["item_rod_of_atos"] = { "item_crown"; "item_crown"; "item_staff_of_wizardry"; "item_recipe_rod_of_atos" }
 
 ItemModule["item_sange"] = { "item_belt_of_strength"; "item_ogre_axe"; "item_recipe_sange" }
-			    
+				
 ItemModule["item_sange_and_yasha"] = { "item_yasha"; "item_sange" }
 
 ItemModule["item_satanic"] = { "item_lifesteal"; "item_reaver"; "item_claymore" }
@@ -439,34 +444,34 @@ end
 
 --Get basic item recursively from ItemUtility data
 function ItemModule.GetBasicItems( ... )
-    local basicItemTable = {}
-    for i,v in pairs(...) do
-        if ItemModule[v] ~= nil and ItemModule.IsItemInHero(v) == false then
-            for _,w in pairs(ItemModule.GetBasicItems(ItemModule[v])) do
+	local basicItemTable = {}
+	for i,v in pairs(...) do
+		if ItemModule[v] ~= nil and ItemModule.IsItemInHero(v) == false then
+			for _,w in pairs(ItemModule.GetBasicItems(ItemModule[v])) do
 				basicItemTable[#basicItemTable+1] = w;
-            end
-        elseif ItemModule[v] == nil and ItemModule.IsItemInHero(v) == false then
+			end
+		elseif ItemModule[v] == nil and ItemModule.IsItemInHero(v) == false then
 			basicItemTable[#basicItemTable+1] = v;
-        end
-    end
-    return basicItemTable
+		end
+	end
+	return basicItemTable
 end
 
 function ItemModule.GetBasicItemsNew( ... )
-    local basicItemTable = {}
-    for i,v in pairs(...) do
+	local basicItemTable = {}
+	for i,v in pairs(...) do
 		--print(tostring(v))
 		local comps = GetItemComponents(v);
 		--print(tostring(#comps))
-        if #comps > 0 and ItemModule.IsItemInHero(v) == false then
-            for _,w in pairs(ItemModule.GetBasicItems(comps[1])) do
+		if #comps > 0 and ItemModule.IsItemInHero(v) == false then
+			for _,w in pairs(ItemModule.GetBasicItems(comps[1])) do
 				basicItemTable[#basicItemTable+1] = w;
-            end
-        elseif #comps == 0 and ItemModule.IsItemInHero(v) == false then
+			end
+		elseif #comps == 0 and ItemModule.IsItemInHero(v) == false then
 			basicItemTable[#basicItemTable+1] = v;
-        end
-    end
-    return basicItemTable
+		end
+	end
+	return basicItemTable
 end
 
 function ItemModule.GetEmptyInventoryAmount(bot)
@@ -509,7 +514,7 @@ function ItemModule.UpdateBuyBootStatus(bot)
 	local bootsSlot = bot:FindItemSlot('item_boots');
 	if bootsSlot == - 1 then
 		for i=1,#ItemModule['earlyBoots'] do
-		    bootsSlot = bot:FindItemSlot(ItemModule['earlyBoots'][i]);
+			bootsSlot = bot:FindItemSlot(ItemModule['earlyBoots'][i]);
 			if bootsSlot >= 0 then
 				break;
 			end
@@ -524,9 +529,9 @@ function ItemModule.GetMainInvLessValItemSlot(bot)
 	for i=0,5,1 do
 		local item = bot:GetItemInSlot(i);
 		if  item ~= nil and item:GetName() ~= "item_aegis" 
-		    and item:GetName() ~= "item_refresher_shard" 
-		    and item:GetName() ~= "item_cheese" 
-		    and item:GetName() ~= "item_bloodstone" 
+			and item:GetName() ~= "item_refresher_shard" 
+			and item:GetName() ~= "item_cheese" 
+			and item:GetName() ~= "item_bloodstone" 
 		then
 			local cost = GetItemCost(item:GetName()); 
 			if  cost < minPrice then
